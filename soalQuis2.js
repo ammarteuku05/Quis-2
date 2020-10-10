@@ -133,7 +133,7 @@ function recapScores(data) {
             `   ${i}. Email: ${score.email}
      Rata-rata: ${aver}
      Predikat: ${achive}`
-
+        
      console.log(template)
     }
   }
